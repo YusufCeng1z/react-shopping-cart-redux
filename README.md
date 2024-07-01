@@ -1,4 +1,4 @@
-[react-shopping-cart-redux](https://react-phone-shopping-cart-redux.netlify.app/)
+[Live Demo](https://react-phone-shopping-cart-redux.netlify.app/)
 
 ![alt text](appImage.png)
 
