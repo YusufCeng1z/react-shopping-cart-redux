@@ -1,3 +1,7 @@
+[react-shopping-cart-redux](https://react-phone-shopping-cart-redux.netlify.app/)
+
+![alt text](appImage.png)
+
 # React Phone Store Project
 
 This project is a phone store application with dummyjson.com Products API information. Users can review their products, package the products they like and rate them.
